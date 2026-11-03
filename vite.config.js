@@ -5,7 +5,7 @@ import { fileURLToPath, URL } from "node:url";
 export default defineConfig({
   plugins: [react()],
 
-  base: "/Mon-portfolio/",
+  base: "/",
 
   server: {
     host: "0.0.0.0",
